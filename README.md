@@ -4,7 +4,6 @@
 [![](https://img.shields.io/badge/Discord-PeRcH1%236100-%237289DA?logo=discord)](https://discordapp.com/users/284644003993878528)
 [![](https://img.shields.io/badge/VK-Kushelevich-%234C75A3?logo=vk)](https://vk.com/id175059002)
 [![](https://img.shields.io/badge/Email-mail%40perch1.me-%23BB001B?logo=mail.ru)](mailto://mail@perch1.me)
-[![](https://img.shields.io/badge/GitHub-PeRcHiK31-4078c0?style=flat&logo=github)](https://github.com/PeRcHiK31)
 [![](https://img.shields.io/twitter/follow/PeRcH1337?color=%231DA1F2&style=flat&logo=twitter)](https://twitter.com/PeRcH1337)
 
 - 👨‍💻 Worked as a professional CS:GO match and technical admin with [EPICENTER](https://epicenter.gg/en), [Relog.Media](https://relog.rs/), [GRID](https://grid.gg/) and covered more than 2500 official matches and 100 tournaments

@@ -13,18 +13,14 @@
 - 📈 Creator of the [HLTV Ranking](https://hltv-ranking.perch1.me/) website
 - ⚡ Fun fact: I like to use emoji 😗
 
+<p align="center">
+  <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="Coding">
+</p>
+
 ## My Skill Set
-| Front-end |
-| --------- |
-| ![Front-end skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,vue,webpack,sass) |
-
-| Back-end |
-| --------- |
-| ![Front-end skills](https://skillicons.dev/icons?i=nodejs,js,ts,php,pug,regex,mysql,postgres,redis,git,github,gitlab) |
-
-| DevOps |
-| --------- |
-| ![DevOps skills](https://skillicons.dev/icons?i=linux,docker,bash) |
+| Front-end | Back-end | DevOps |
+| --------- | -------- | ------ |
+| ![Front-end skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,vue,webpack,sass) | ![Front-end skills](https://skillicons.dev/icons?i=nodejs,js,ts,php,pug,regex,mysql,postgres,redis,git,github,gitlab) | ![DevOps skills](https://skillicons.dev/icons?i=linux,docker,bash) |
 
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=PeRcHiK31&show_icons=true&count_private=true&hide_border=true&theme=merko">

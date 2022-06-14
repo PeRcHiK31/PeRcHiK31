@@ -27,4 +27,4 @@
 | ![Front-end skills](https://skillicons.dev/icons?i=linux,docker,bash) |
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=PeRcHiK31&show_icons=true&count_private=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=PeRcHiK31&show_icons=true&count_private=true&hide_border=true&theme=merko">

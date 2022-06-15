@@ -9,6 +9,7 @@
 - 👨‍💻 Worked as a professional CS:GO match and technical admin with [EPICENTER](https://epicenter.gg/en), [Relog.Media](https://relog.rs/), [GRID](https://grid.gg/) and covered more than 2500 official matches and 100 tournaments
 - 📹 Worked with video production teams to integrate various services and products such as [Pinnacle](https://www.pinnacle.com/en/), [Parimatch](https://global.parimatch.com/en/), [Unibet](https://www.unibet.com/), [Thuderpick](https://thunderpick.com/en/), [Gamdom](https://thunderpick.com/en/), [Tiltify](https://tiltify.com/) and others 
 - 🆘 Created or improved various services such as [eBot](https://ebot.perch1.me/) ([Public version](http://www.esport-tools.net/)), [CS:GO Demos](https://csgo-demos.perch1.me/), [Veto tool](https://veto.perch1.me/), [Discord match info bot](https://h8r.services/discord-bot/) and Gsheet server nickname generator for match admins to simplify their work
+- Work only on personal or company projects
 - 📈 Creator of the [HLTV Ranking](https://hltv-ranking.perch1.me/) website
 - ⚡ Fun fact: I like to use emoji 😗
 

@@ -20,7 +20,7 @@
 ## My Skill Set
 | Front-end | Back-end | DevOps |
 | --------- | -------- | ------ |
-| ![Front-end skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,vue,webpack,sass) | ![Front-end skills](https://skillicons.dev/icons?i=nodejs,js,ts,php,pug,regex,mysql,postgres,redis,git,github,gitlab) | ![DevOps skills](https://skillicons.dev/icons?i=linux,docker,bash) |
+| ![Front-end skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,vue,webpack,sass) | ![Front-end skills](https://skillicons.dev/icons?i=nodejs,js,ts,php,pug,regex,mysql,postgres,redis,git) | ![DevOps skills](https://skillicons.dev/icons?i=linux,docker,bash,github,gitlab) |
 
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=PeRcHiK31&show_icons=true&count_private=true&hide_border=true&theme=merko">
